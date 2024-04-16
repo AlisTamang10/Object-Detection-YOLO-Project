@@ -1,0 +1,14 @@
+train: data_images/train
+val: data_images/test
+nc: 9
+names: ['person',
+       'car',
+       'chair',
+       'bottle',
+       'bird',
+        'sofa',
+        'cycle',
+        'horse',
+         'bus'
+    
+]
